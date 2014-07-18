@@ -1,0 +1,13 @@
+{
+    "name": "Biblical original text",
+    "version": "v0.0.1",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ygmpkk/biblical-original-text.git"
+    },
+    "author": "Timothy <ygmpkk@gmail.com>",
+    "dependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}
